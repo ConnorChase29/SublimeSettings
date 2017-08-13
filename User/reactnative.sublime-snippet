@@ -1,0 +1,48 @@
+<snippet>
+	<content><![CDATA[
+import React from 'react';
+
+import {
+
+  AppRegistry,
+  View,
+  StyleSheet,
+  Text,
+
+} from 'react-native';
+
+export default class namehere extends React.Component {
+
+  render() {
+
+    return (
+
+      <View style= { styles.container } >
+
+        <Text>Hello World!</Text>
+
+      </View>
+
+    );
+
+  }
+
+}
+
+const styles = StyleSheet.create({
+
+  container: {
+
+    flex: 1,
+
+  },
+
+});
+		]]></content>
+
+	<tabTrigger>react</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"JavaScript Completions",
+		"JavaScript Snippets",
+		"JsPrettier",
+		"Markdown Preview",
+		"OpenInBrowser",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - Spacegray"
+	]
+}
